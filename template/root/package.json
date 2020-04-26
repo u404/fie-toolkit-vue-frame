@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@sc/lib-axios": "latest",
+    "@sc/lib-callapp": "latest",
+    "@sc/lib-env": "latest",
+    "@sc/lib-share": "latest",
+    "@sc/lib-user": "latest",
+    "@sc/lib-web-utils": "latest",
+    "@sc/lib-wx": "latest",
+    "@sc/vue-plugin-phone-receive": "latest",
+    "@sc/vue-ui-h5": "latest"
+  }
+}

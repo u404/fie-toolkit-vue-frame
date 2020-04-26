@@ -1,0 +1,32 @@
+{
+  "name": "@sc/fie-toolkit-vue-frame",
+  "version": "0.1.4",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --fix ./"
+  },
+  "devDependencies": {
+    "eslint": "^3.8.1",
+    "eslint-config-ais": "0.0.16"
+  },
+  "dependencies": {
+    "@sc/fie-toolkit-vue": "latest",
+    "chalk": "^2.4.1",
+    "cross-spawn": "^6.0.5",
+    "fs-extra": "^7.0.1",
+    "underscore": "^1.9.0"
+  },
+  "maintainers": [
+    {
+      "name": "zhangguanghui",
+      "mail": "zhangguanghui@smartcinema.com.cn"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@t-gitlab.smartcinema.com.cn:node/fie-toolkit-vue-frame.git"
+  },
+  "publishConfig": {
+    "registry": "http://registry.smartcinema.com.cn"
+  }
+}
